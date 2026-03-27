@@ -397,6 +397,26 @@ For issues, check:
 
 MIT License - see LICENSE file for details.
 
+
+## Project Admin ⚡
+
+<table align="center">
+  <tr>
+    <td align="center">
+        <img src="https://res.cloudinary.com/dqv8dlj2s/image/upload/v1772276752/IMG_20251220_111730_cqlgfo.jpg" width="750" height="250" />
+      </a>
+      <h4>mwakidenis</h4>
+    </td>
+  </tr>
+</table>
+
+<div><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2></div>
+
+We extend our heartfelt gratitude for your invaluable contribution to our project! Your efforts play a pivotal role in elevating G Mart-Supermarket to greater heights.
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
+
+
 ## Support
 
 For support, strictly create an issue in the GitHub repository. Am done up to the point of testing with real Mikrotik RB750UPr, Currently am working on DDOS management on the system.
